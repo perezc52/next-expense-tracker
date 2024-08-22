@@ -18,9 +18,7 @@ A full-stack web application designed to help users track and manage their expen
 - **PostgreSQL**: Relational database management system.
 - **Clerk**: Authentication and user management.
 
-## Installation & Setup
-To get started with the Expense Tracker, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
+## Future Enhancements
+- **Budget Tracking: Implement budget tracking features with visual graphs.
+- **Expense Analysis: Add expense analysis tools to help users understand their spending habits.
+- **Notifications: Send users notifications for upcoming bills or low budgets.
